@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 
 import hackercraft.duals.Duals;
 import hackercraft.duals.api.ArenaInterface;
-import hackercraft.duals.api.Match;
+
 
 /**
  * this class handles plugin arena stuff

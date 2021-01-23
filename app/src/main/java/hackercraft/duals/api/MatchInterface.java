@@ -4,8 +4,7 @@ import java.util.List;
 import java.util.Set;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import me.realized.duels.api.arena.Arena;
-import me.realized.duels.api.kit.Kit;
+
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
@@ -38,7 +37,7 @@ public interface MatchInterface {
      *         are using their own inventories.
      */
     @Nullable
-    Kit getKit();
+    KitInterface getKit();
 
     /**
      * UnmodifiableList of ItemStacks the player has bet for this
