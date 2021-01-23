@@ -15,6 +15,7 @@ targetCompatibility = 1.8
 
 dependencies {
     compileOnly spigot('1.16.2')
+    compile group: 'javax.annotation', name: 'javax-annotations', version: '1.0.0'
     
 }
 

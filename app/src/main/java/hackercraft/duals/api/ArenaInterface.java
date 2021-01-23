@@ -3,10 +3,6 @@ package hackercraft.duals.api;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import me.realized.duels.api.event.arena.ArenaRemoveEvent;
-import me.realized.duels.api.event.arena.ArenaSetPositionEvent;
-import me.realized.duels.api.event.arena.ArenaStateChangeEvent;
-import me.realized.duels.api.match.Match;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

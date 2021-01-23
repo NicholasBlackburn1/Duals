@@ -3,7 +3,7 @@
  */
 package hackercraft.duals;
 
-import java.lang.System.Logger;
+import java.util.logging.Logger;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -16,10 +16,9 @@ import kr.entree.spigradle.annotations.SpigotPlugin;
 public class Duals extends JavaPlugin{
     
     private static String prefix = "[Duals]";
-    public Logger logger = (Logger) Bukkit.getLogger();
+    public Logger logger = Bukkit.getLogger();
 
-
-
+    
     @Override
     public void onLoad() {
         
