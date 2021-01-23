@@ -10,8 +10,12 @@ plugins {
     id 'kr.entree.spigradle' version '2.2.3'
 }
 
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
 dependencies {
     compileOnly spigot('1.16.2')
+    
 }
 
 spigot {

@@ -14,8 +14,10 @@ import kr.entree.spigradle.annotations.SpigotPlugin;
  */
 @SpigotPlugin
 public class Duals extends JavaPlugin{
+    
     private static String prefix = "[Duals]";
     public Logger logger = (Logger) Bukkit.getLogger();
+
 
 
     @Override
