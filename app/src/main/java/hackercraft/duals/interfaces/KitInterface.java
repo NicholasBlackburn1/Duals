@@ -2,7 +2,7 @@ package hackercraft.duals.interfaces;
 
 
 import javax.annotation.Nonnull;
-\
+
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;

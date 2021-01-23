@@ -97,7 +97,7 @@ public interface ArenaInterface {
      *         arena. null otherwise.
      */
     @Nullable
-    Match getMatch();
+    MatchInterface getMatch();
 
     /**
      * Whether or not the player is playing in this arena.
