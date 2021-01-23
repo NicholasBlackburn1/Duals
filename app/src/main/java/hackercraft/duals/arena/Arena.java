@@ -5,7 +5,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 import hackercraft.duals.Duals;
-import hackercraft.duals.api.ArenaInterface;
+import hackercraft.duals.interfaces.ArenaInterface;
 
 
 /**

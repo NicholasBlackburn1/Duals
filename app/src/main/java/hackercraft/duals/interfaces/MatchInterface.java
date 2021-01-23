@@ -1,4 +1,4 @@
-package hackercraft.duals.api;
+package hackercraft.duals.interfaces;
 
 import java.util.List;
 import java.util.Set;

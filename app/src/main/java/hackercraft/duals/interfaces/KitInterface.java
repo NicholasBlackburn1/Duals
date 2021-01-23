@@ -1,4 +1,4 @@
-package hackercraft.duals.api;
+package hackercraft.duals.interfaces;
 
 
 import javax.annotation.Nonnull;
